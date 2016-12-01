@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange", "StockExchange\StockExchange.csproj", "{D88F2179-8F05-49E1-AAF2-4A4F00423A09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExchange.Tests", "StockExchange.Tests\StockExchange.Tests.csproj", "{C85CB4C5-7B6D-44C6-9183-024766A1875D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D88F2179-8F05-49E1-AAF2-4A4F00423A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D88F2179-8F05-49E1-AAF2-4A4F00423A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D88F2179-8F05-49E1-AAF2-4A4F00423A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D88F2179-8F05-49E1-AAF2-4A4F00423A09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85CB4C5-7B6D-44C6-9183-024766A1875D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85CB4C5-7B6D-44C6-9183-024766A1875D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85CB4C5-7B6D-44C6-9183-024766A1875D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85CB4C5-7B6D-44C6-9183-024766A1875D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
