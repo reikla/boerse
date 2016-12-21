@@ -1,10 +1,6 @@
 namespace StockExchange.Migrations
 {
-    using System;
-    using System.Data.Entity;
     using System.Data.Entity.Migrations;
-    using System.Diagnostics;
-    using System.Linq;
 
     internal sealed class Configuration : DbMigrationsConfiguration<StockExchange.Models.ApplicationDbContext>
     {

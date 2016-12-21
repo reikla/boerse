@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace StockExchange.Models
+﻿namespace StockExchange.Models
 {
     public class TxHistory
     {
